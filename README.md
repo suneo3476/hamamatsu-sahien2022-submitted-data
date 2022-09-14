@@ -2,7 +2,7 @@
 
 - 浜松市のウェブサイトで公開されている区名候補募集結果データをプログラムで二次利用しやすいようにJSON形式にしたものです。
 - 加工元
-  - [行政区再編協議(PDF)](https://www.city.hamamatsu.shizuoka.jp/documents/141080/r040905gyoukaku.pdf)
+  - [行政区再編協議(PDF)](https://www.city.hamamatsu.shizuoka.jp/documents/141080/newr040905gyouzaisei.pdf)
   - PDFのリンクは[ここ](https://www.city.hamamatsu.shizuoka.jp/gikai/iinkai/0409_0410.html)に掲載されています
 - ファイル
   - A_Ward_SubmittedList.txt
